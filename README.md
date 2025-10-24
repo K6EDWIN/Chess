@@ -7,7 +7,9 @@ A high-performance, bitboard-based chess engine written in Python, complete with
 
 It supports all standard chess rules and is designed for experimentation, learning, and as a foundation for more complex chess AI projects.
 
-![Gameplay Screenshot](https://imgur.com/a/Tfh9Kg6)
+![Gameplay Screenshot 1](https://i.imgur.com/CvAvgbh.png)
+![Gameplay Screenshot 2](https://i.imgur.com/72xG6ZI.png)
+
 
 
 ## ✨ Features
@@ -47,7 +49,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/yourusername/python-chess-engine.git](https://github.com/yourusername/python-chess-engine.git)
+    git clone https://github.com/K6EDWIN/Chess.git
+
     ```
 3.  **Install the required packages:**
     ```sh
